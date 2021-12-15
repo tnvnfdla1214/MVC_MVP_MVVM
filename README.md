@@ -1,4 +1,4 @@
-# MVC와 MVP와 MVVM에 대하여
+# MVC와 MVP와 MVVM에 대한 간단한 설명
 
 먼저 작성자는 [조치원수호대](https://github.com/tnvnfdla1214/homemade_guardian) 프로젝트를 하며 스파게티 코드에 대한 문제점을 발견하였습니다. 그래서 다자인 패턴에 대한 간략한 공부한 결과 모델 뷰 컨트롤러(Model View Controller, MVC) 패턴을 초석으로 보다 모듈화되고 테스트 가능한 패턴으로 발전해 왔으나 모델 뷰 프리젠터(Model View Presenter, MVP)와 모델 뷰 뷰모델(Model View ViewModel, MVVM)은 MVC을 대체하기 위해 가장 많이 쓰이는 두 가지 대안책입니다. **하지만 개발자들은 어떤 것이 안드로이드에 더 적합한지 의견을 일치하지 못했습니다.** 따라서 이 글은 다양한 견해를 보고 내린 저만의 결론입니다.
 
